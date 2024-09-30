@@ -1,1 +1,2 @@
 47.113.146.104 dwardserver1
+47.113.146.104 dwardserver1.dward.cn
