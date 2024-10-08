@@ -1,1 +1,5 @@
-192.168.5.7 dwardserver1 dwardserver1.dward.cn kodbox.dward.cn kodoffice.dward.cn minio.dward.cn
+192.168.5.7 dwardserver1
+192.168.5.7 dwardserver1.dward.cn
+192.168.5.7 kodbox.dward.cn
+192.168.5.7 kodoffice.dward.cn
+192.168.5.7 minio.dward.cn
